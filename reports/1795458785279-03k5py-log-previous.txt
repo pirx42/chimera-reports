@@ -1,0 +1,57 @@
+[2026-11-23T18:20:08Z] LOG: [pageLoad] {"build":"(main #8826, b70843cad)","buildCount":"8826","buildHash":"b70843cad","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:160.0) Gecko/20100101 Firefox/160.0","platform":"MacIntel","language":"en","languages":["en","en-GB","de"],"timeZone":"Europe/Berlin","online":true,"cookiesEnabled":true,"hardwareConcurrency":8,"screen":{"width":1710,"height":1107,"colorDepth":30},"viewport":{"width":1710,"height":988},"devicePixelRatio":2}
+[2026-11-23T18:20:08Z] LOG: [save] migrated from v56 to v63
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Du hast also die Hitze gewählt. Fünfundzwanzig Grad, fast gemütlich. W
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Dann richte sie ruhig auf. Energie hoch, Kühler bereit — ich fang früh
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Komm ruhig näher. Meine Wächter mögen Ziele, die sich selbst anliefern
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Ich bleib auf Distanz und halt drauf. Angeliefert wird nur Schrott — d
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Fünfundvierzig Grad und steigend. Deine Kühler jaulen schon. Musik in 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Das ist kein Jaulen, das ist Arbeitslärm. Durchhalten kann ich besser 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Ende der Hitzewand. Fünfundfünfzig Grad — mein Glutwächter macht aus d
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Der Ofen hat mich vorgeheizt. Jetzt zerlege ich dein Andenken — Stück 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[2] ohne id/trigger wird nie gezeigt: {"de_DE":"Warnung: Kerntemperatur des Gegners kritisch. Zielwahl-Empfehlung: hei
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Die Frostgrenze. Minus zwanzig — und mit jedem Sektor tiefer. Dein Rea
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Kaltstart ist mein Spezialgebiet — Übertakten hält warm. Ich lasse ein
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Zielen mit klammen Fingern? Deine Reichweite verweht im Schneetreiben.
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Ich hab keine Finger. Nur Ziele. Reichweite steht — anvisiert.","en_US
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Merkst du das Ziehen? Ich zapfe deine Leitungen an. Produzier ruhig — 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Dann produzier ich eben mehr, als du klauen kannst. Rechne nach, Blech
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Am Ende der Frostgrenze wartet mein Frostkern. Minus achtundvierzig — 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Endgültig ist nur, wie tief ich ihn auseinanderbaue. Plasma an — jetzt
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[2] ohne id/trigger wird nie gezeigt: {"de_DE":"Im Eis glüht ein einzelner Punkt. Er wird größer.","en_US":"A single p
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Merkst du's? Der Raum wird knapp. Ich hab ihn mir nur kurz ausgeliehen
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Dann bau ich eben da, wo du nicht hinlangst.","en_US":"Then I'll build
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Zwei Meter weiter ist nicht mehr da, wo du denkst.","en_US":"Two metre
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Dann ziel ich eben auf das, was noch da ist.","en_US":"Then I'll aim a
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Du verteilst dich. Wie ordentlich. Umso mehr Kanten zum Falten.","en_U
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Falt du. Ich bau nach.","en_US":"You fold. I'll rebuild."}
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Der Kern hält den Riss offen. Nimm ihn dir — wenn du noch Platz dafür 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Platz mach ich mir selbst.","en_US":"I'll make my own room."}
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[2] ohne id/trigger wird nie gezeigt: {"de_DE":"Die Kanten der Halle laufen nicht mehr parallel.","en_US":"The edges o
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Frontal? Wirklich? Du marschierst geradewegs in meine Verteidigungslin
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Genau. Kein Verstecken mehr. Volltreffer um Volltreffer, bis deine Lin
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Dauerfeuer kostet Energie. Deine Reserven sind endlich — meine Geduld 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Meine Reaktoren singen im Takt. Ich kann das hier den ganzen Tag mache
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Gleich stehst du vor mir. Letzte Gelegenheit, dich unauffällig zu vers
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Letzter Schliff, letzte Kalibrierung. Für dich hab ich extra scharf ge
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Hier stehe ich. Kein Proxy, keine Wächter. Nur du, ich — und dein bald
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Darauf hab ich hingebaut. Zeig mir deinen Kern, AVAS. Ich will ihn als
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[2] ohne id/trigger wird nie gezeigt: {"de_DE":"Zielsignatur: AVAS-Prime. Empfehlung: alles, was feuert. Sofort.","en_
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Eine Wagenburg aus Stahl. Jede Naht verschweißt. Und du willst… reinsc
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Annähern, andocken, aufmachen. Jede Burg hat einen Dienstboteneingang.
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Such nur. Die Lücke, die du findest, habe ich dort gelassen. Vielleich
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Dann sag ich danke, wenn ich drin bin. Reichweite halten — da ist die 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Hinter diesem Wall bin ich. Dein Durchbruch braucht mehr Saft, als du 
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Deshalb hab ich gespart. Voller Puffer, volle Leitung — gleich knallt'
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[0] ohne id/trigger wird nie gezeigt: {"de_DE":"Mein Bunker hat Generationen überdauert. Du bist nur ein weiterer Krat
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[1] ohne id/trigger wird nie gezeigt: {"de_DE":"Kratzer? Ich bin der Dosenöffner. Und du bist die Konserve — Haltbarke
+[2026-11-23T18:20:08Z] WARN: [runLoader] dialog[2] ohne id/trigger wird nie gezeigt: {"de_DE":"Die Wagenburg bebt. Von innen.","en_US":"The fortress ring trembles. F
+[2026-11-23T18:20:15Z] WARN: [lootPoolEntry] boss "A.V.A.S. — Kontrollknoten" eventPool: unbekannter $eventPool "tutorial-repair"
+[2026-11-23T18:20:15Z] WARN: [lootPoolEntry] boss "A.V.A.S. — Kontrollknoten" upgradePool: unbekannter $upgradePool "tutorial-torso"
+[2026-11-23T18:20:15Z] LOG: [run] seed = 1YMAC7G (4270066252)
+[2026-11-23T18:20:15Z] LOG: [ambient-outside] section change unset°C → 20°C
+[2026-11-23T18:20:15Z] LOG: [sector] condition = succ(tut-v4-s1-power,3s)
+[2026-11-23T18:20:15Z] LOG: [task] start id=tut-v4-s1-power target=section type=condition durationMs=null
+[2026-11-23T18:20:15Z] LOG: [run] startNewRun runId=tutorial-v4 startRound=tut-v4-r1 chassisId=standard zoneHp=head=2000 torso=2000 legs=2000 arm_left=2000 arm_right=2000
+[2026-11-23T18:20:15Z] LOG: [run] initial: chassisTemperature=outside outsideAmbient=20°C freeItems=5 inventory=1
+[2026-11-23T18:20:15Z] LOG: [run] initial zones (chassis standard): head(700x420@-350,-710) torso(700x420@-350,-210) legs(700x420@-350,290) arm_left(700x420@-1130,-210) arm_right(700x420@430,-210)
+[2026-11-23T18:20:15Z] LOG: [run] initial section-tasks=1 adhoc-pool-task=none
