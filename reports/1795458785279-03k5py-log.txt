@@ -1,0 +1,72 @@
+[2026-11-23T18:20:20Z] WARN: [log] Die vorige Sitzung endete ohne geordnetes Ende (57 Zeilen, letzte 2026-11-23T18:20:15.226Z) — ihr Protokoll geht mit dem naechsten Fehlerbericht.
+[2026-11-23T18:20:20Z] LOG: [pageLoad] {"build":"(main #8826, b70843cad)","buildCount":"8826","buildHash":"b70843cad","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:160.0) Gecko/20100101 Firefox/160.0","platform":"MacIntel","language":"en","languages":["en","en-GB","de"],"timeZone":"Europe/Berlin","online":true,"cookiesEnabled":true,"hardwareConcurrency":8,"screen":{"width":1710,"height":1107,"colorDepth":30},"viewport":{"width":1710,"height":988},"devicePixelRatio":2}
+[2026-11-23T18:21:58Z] LOG: [run] successCondition ongoing → fulfilled
+[2026-11-23T18:21:58Z] LOG: [task] section-success id=tut-v4-s1-power xp=500
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield amount=83 lvl+1 → L1
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-std-shield amount=83 lvl+1 → L1
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-emitter amount=83 lvl+1 → L1
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=83 lvl+0 → L0
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-std-emitter amount=83 lvl+0 → L0
+[2026-11-23T18:21:58Z] LOG: [xp-anim] trigger id=tut-v4-s1-gen amount=83 lvl+0 → L0
+[2026-11-23T18:22:14Z] LOG: [sector] condition = succ(tut-v4-s2-torso,3s)
+[2026-11-23T18:22:14Z] LOG: [task] start id=tut-v4-s2-torso target=section type=condition durationMs=null
+[2026-11-23T18:22:14Z] LOG: [run] sector enter round=tut-v4-r1 sectorIdx=0→1 kind=normal ambient=20°C pendingPenalties=0
+[2026-11-23T18:23:38Z] LOG: [run] successCondition ongoing → fulfilled
+[2026-11-23T18:23:38Z] LOG: [task] section-success id=tut-v4-s2-torso xp=500
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield amount=71 lvl+0 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-std-shield amount=71 lvl+0 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-emitter amount=71 lvl+0 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=71 lvl+1 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-std-emitter amount=71 lvl+1 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-s1-gen amount=71 lvl+1 → L1
+[2026-11-23T18:23:38Z] LOG: [xp-anim] trigger id=tut-v4-s2-gen amount=71 lvl+0 → L0
+[2026-11-23T18:23:48Z] LOG: [sector] condition = succ(tut-v4-s3-scan,3s)
+[2026-11-23T18:23:48Z] LOG: [task] start id=tut-v4-s3-scan target=section type=statThreshold durationMs=null
+[2026-11-23T18:23:48Z] LOG: [run] sector enter round=tut-v4-r1 sectorIdx=1→2 kind=normal ambient=20°C pendingPenalties=0
+[2026-11-23T18:24:12Z] LOG: [run] successCondition ongoing → fulfilled
+[2026-11-23T18:24:12Z] LOG: [task] section-success id=tut-v4-s3-scan xp=500
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield amount=63 lvl+1 → L2
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-std-shield amount=63 lvl+1 → L2
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-emitter amount=63 lvl+1 → L2
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=63 lvl+0 → L1
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-std-emitter amount=63 lvl+0 → L1
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-s1-gen amount=63 lvl+0 → L1
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-s2-gen amount=63 lvl+1 → L1
+[2026-11-23T18:24:12Z] LOG: [xp-anim] trigger id=tut-v4-s3-sensor amount=63 lvl+0 → L0
+[2026-11-23T18:24:16Z] LOG: [sector] condition = succ(tut-v4-s4-boost,3s)
+[2026-11-23T18:24:16Z] LOG: [task] start id=tut-v4-s4-boost target=section type=statThreshold durationMs=null
+[2026-11-23T18:25:09Z] LOG: [run] successCondition ongoing → fulfilled
+[2026-11-23T18:25:09Z] LOG: [task] section-success id=tut-v4-s4-boost xp=500
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield amount=56 lvl+0 → L2
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-std-shield amount=56 lvl+0 → L2
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-emitter amount=56 lvl+0 → L2
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=56 lvl+0 → L1
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-std-emitter amount=56 lvl+0 → L1
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-s1-gen amount=56 lvl+1 → L2
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-s2-gen amount=56 lvl+0 → L1
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-s3-sensor amount=56 lvl+1 → L1
+[2026-11-23T18:25:09Z] LOG: [xp-anim] trigger id=tut-v4-s4-carrier amount=56 lvl+0 → L0
+[2026-11-23T18:25:12Z] LOG: [sector] condition = succ(tut-v4-s5-cool,15s)
+[2026-11-23T18:25:12Z] LOG: [task] start id=tut-v4-s5-cool target=section type=statThreshold durationMs=null
+[2026-11-23T18:25:12Z] LOG: [run] sector enter round=tut-v4-r2 sectorIdx=0→1 kind=normal ambient=20°C pendingPenalties=0
+[2026-11-23T18:25:23Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield-oc amount=0 lvl+1 → L1
+[2026-11-23T18:26:18Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=0 lvl+1 → L2
+[2026-11-23T18:26:27Z] LOG: [xp-anim] trigger id=tut-v4-s4-carrier amount=0 lvl+1 → L1
+[2026-11-23T18:27:15Z] LOG: [xp-anim] trigger id=tut-v4-s2-gen amount=0 lvl+1 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s4-oc amount=0 lvl+1 → L1
+[2026-11-23T18:27:23Z] LOG: [run] successCondition ongoing → fulfilled
+[2026-11-23T18:27:23Z] LOG: [task] section-success id=tut-v4-s5-cool xp=500
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-std-gen-shield amount=56 lvl+0 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-std-shield amount=56 lvl+0 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-std-cap-emitter amount=56 lvl+0 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-std-emitter amount=56 lvl+1 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s2-gen amount=56 lvl+0 → L2
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s3-sensor amount=56 lvl+0 → L1
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s4-carrier amount=56 lvl+0 → L1
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s5-heatcap amount=56 lvl+1 → L1
+[2026-11-23T18:27:23Z] LOG: [xp-anim] trigger id=tut-v4-s5-fan amount=56 lvl+1 → L1
+[2026-11-23T18:27:26Z] LOG: [sector] condition = sequence(succ(tut-v4-vb-incap,1s), succ(tut-v4-vb-nofan,1s), succ(tut-v4-vb-cool,8s))
+[2026-11-23T18:27:26Z] LOG: [task] start id=tut-v4-vb-cool target=section type=statThreshold durationMs=null
+[2026-11-23T18:27:26Z] LOG: [task] start id=tut-v4-vb-nofan target=section type=condition durationMs=null
+[2026-11-23T18:27:26Z] LOG: [task] start id=tut-v4-vb-incap target=section type=condition durationMs=null
+[2026-11-23T18:27:26Z] LOG: [run] sector enter round=tut-v4-r2 sectorIdx=1→2 kind=normal ambient=20°C pendingPenalties=0
